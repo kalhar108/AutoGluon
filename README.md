@@ -9,11 +9,11 @@
 Watch all 5 AutoGluon tutorials here: [AutoGluon Complete Series - YouTube Playlist](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 
 ### Individual Videos
-1. [AutoGluon Tabular Quick Start](https://www.youtube.com/watch?v=VIDEO_ID_1) 
-2. [AutoGluon Feature Engineering](https://www.youtube.com/watch?v=VIDEO_ID_2) 
-3. [California Housing Prediction](https://www.youtube.com/watch?v=VIDEO_ID_3) 
-4. [IEEE Fraud Detection](https://www.youtube.com/watch?v=VIDEO_ID_4) 
-5. [AutoGluon Multimodal](https://www.youtube.com/watch?v=VIDEO_ID_5) 
+1. [AutoGluon Tabular Quick Start](https://youtu.be/SIGcm1AMEi8) 
+2. [AutoGluon Feature Engineering](https://youtu.be/9ywIfIy584k) 
+3. [California Housing Prediction](https://youtu.be/MZzVYOLlxxU) 
+4. [IEEE Fraud Detection](https://youtu.be/qKa8qXI-Hc0) 
+5. [AutoGluon Multimodal](https://youtu.be/AF66LSDOHmk) 
 
 ---
 
